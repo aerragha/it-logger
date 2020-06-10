@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Chnaged hard drive on workstation 005",
+      "attention": false,
+      "date": "2020-06-09T16:18:17.963Z",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-06-09T21:02:59.624Z"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 055",
+      "attention": true,
+      "tech": "Ayoub Eray",
+      "date": "2020-06-10T12:18:52.649Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}

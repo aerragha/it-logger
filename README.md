@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app to track IT department tasks and issues. Uses JSON-Server as a mock backend. (project from a udemy course).
 
 ## Available Scripts
 
